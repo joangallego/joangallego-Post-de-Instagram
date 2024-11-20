@@ -1,0 +1,42 @@
+Body{
+    background-color: yellow;
+}
+
+div#post{
+    margin: auto;
+    margin-top: 100px;
+    width: 600px;
+    height: 700px;
+    background-color: red;
+}
+
+div.post-header{
+    width: 600px;
+    height: 70px;
+    background-color: brown;
+}
+
+div#perfil{
+float: left;
+}
+
+div#usuario{
+    float: left;
+}
+
+div#puntos{
+    float: right;
+    
+}
+
+div.post-img{
+    width: 600px;
+    height: 400px;
+    background-color: green;
+}
+
+div.post-body{
+    width: 600px;
+    height: 230px;
+    background-color: blue;
+}
